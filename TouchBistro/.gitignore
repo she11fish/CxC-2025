@@ -1,1 +1,4 @@
 CxCData
+.venv
+# Prevent the need to push another huge csv
+relavant.csv
