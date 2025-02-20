@@ -1,0 +1,4 @@
+pandas
+dask[complete]
+ydata_profiling
+IPython
