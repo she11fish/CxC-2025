@@ -1,0 +1,7 @@
+pandas
+dask[complete]
+ydata_profiling
+IPython
+hvplot
+matplotlib
+statsmodels
